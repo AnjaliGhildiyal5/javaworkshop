@@ -1,4 +1,4 @@
-
+//program for simple class and object creation
 class Subject {
     String name;
     int marks;

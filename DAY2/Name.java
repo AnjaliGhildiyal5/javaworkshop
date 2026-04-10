@@ -10,7 +10,7 @@ public class Name {
         System.out.println("The name you entered is: "+ name1);
         System.out.println("The length of the name is "+name1.length() );
         System.out.println("The uppercase of the name is "+name1.toUpperCase() );
-        //'uppercase ' is used to check whether it is uppercase or not ; but this converts here
+        //'uppercase' is used to check whether it is uppercase or not ; but this converts here
         System.out.println("The length of the name is "+name1.toLowerCase() );
         SC.close();// close to free the system resources 
     }
